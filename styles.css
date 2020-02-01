@@ -1,0 +1,55 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+body {
+  background-color: #6F6FCF;
+}
+
+h1 {
+  margin: 30px;
+  text-align: center;
+  font-family: 'Roboto';
+  font-weight: 400;
+  text-shadow: 1px 1px #FFFFFF;
+  font-size: 6rem;
+  color: #E93255;
+}
+
+h2, h4 {
+  color: #000000;
+  font-family: 'Roboto';
+  font-weight: 300;
+  text-align: left;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Roboto';
+}
+
+div.form{
+    display: block;
+    text-align: center;
+}
+
+form{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+footer {
+  margin-top: 5%;
+  color: #FFFFFF;
+  text-align: center;
+  font-family: 'Roboto';
+  font-size: 1rem;
+}
