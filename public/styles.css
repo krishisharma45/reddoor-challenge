@@ -1,0 +1,77 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+body {
+  background-color: #F1F2F6;
+}
+
+
+h1 {
+  padding-top: 5%;
+  margin: 30px;
+  margin-bottom: 18px;
+  text-align: center;
+  font-family: 'Righteous';
+  text-shadow: 3px 3px #C0C0C4;
+  font-size: 5.6rem;
+  color: #E93255;
+}
+
+h2, h4 {
+  color: #1A1A1A;
+  font-family: 'Open Sans';
+  text-align: left;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  font-size: 2rem;
+  color: #1A1A1A;
+  font-family: 'Open Sans';
+}
+
+div.form{
+    display: block;
+    text-align: center;
+}
+
+div.form input{
+  font-size: 14px;
+}
+
+div.form button{
+  font-size: 14px;
+  border-radius: 3px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  background-color: #E93255;
+  color: #FFFFFF;
+  border-color: #E93255;
+}
+
+div.form button:hover {
+  background-color: #E93255;
+  opacity: 0.5;
+  color: white;
+}
+
+form{
+  margin-top: 20px;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+footer {
+  margin-top: 10%;
+  color: #000000;
+  text-align: center;
+  font-family: 'Open Sans';
+  font-size: 1rem;
+}
